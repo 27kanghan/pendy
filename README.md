@@ -37,7 +37,7 @@
 | 강한(PM) | 권현우 | 김동현 | 김윤우 | 박성준 | 박동휘 |
 | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | <p align="left" style="color:skyblue">Backend</p> | <p align="left" style="color:skyblue">Backend, Infra</p> | <p align="left" style="color:skyblue">Backend, ML</p> | <p align="left" style="color:skyblue">Backend</p> | <p align="left" style="color:skyblue">Backend</p> | <p align="left" style="color:skyblue">Frontend</p> |
-|회원 API|Clova OCR<br>CI/CD 구축|일기, 월간 분석, 채팅|계좌, 거래 내역 API|일기, 목표, 통계, 평균 소비 통계, 감정, 카테고리 API|페이지 별 API 연결|
+|회원 API, 디자인, 목표설정 페이지 |Clova OCR<br>CI/CD 구축|일기, 월간 분석, 채팅|계좌, 거래 내역 API|일기, 목표, 통계, 평균 소비 통계, 감정, 카테고리 API|페이지 별 API 연결|
 |[@27kanghan](https://github.com/27kanghan)|[@mycodeisnoob](https://github.com/mycodeisnoob)|[@hannernos](https://github.com/hannernos)|[@yoonwoo-kim](https://github.com/yoonwoo-kim)|[@psj98](https://github.com/psj98)|[@DongHui-Park](https://github.com/DongHui-Park)|
 
 <br/>
